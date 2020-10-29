@@ -37,14 +37,14 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][reduxjs]
 
-<br/>
-
-- 💬 Ask me about my passion for innovation
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/typescript.svg" />][ts]
 
 <br/>
+
+#### UX/UI Design
+
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
-
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />][css]
 
@@ -56,47 +56,47 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/canva.svg" />][canva]
 
-#### - 🔭 CI/CD
+#### CI/CD
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/heroku.svg" />][heroku]
 
-- 🌱 I’m currently learning Dynamic Programming
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/netlify.svg" />][netlify]
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/googlemaps.svg" />][googlemaps]
+#### Databases
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg" />][sql]
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][github]
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/git.svg" />][git]
+
+#### IDE
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/visualstudiocode.svg" />][vscode]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/expo.svg" />][expo]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/eslint.svg" />][eslint]
 
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/xcode.svg" />][xcode]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/repl-dot-it.svg" />][repl]
 
 
+#### Version Control
 
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][github]
 
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/git.svg" />][git]
 
+#### Backend technology
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/auth0.svg" />][auth]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/yarn.svg" />][yarn]
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/xcode.svg" />][xcode]
-
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/webpack.svg" />][webpack]
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/visualstudiocode.svg" />][vscode]
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/repl-dot-it.svg" />][repl]
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/typescript.svg" />][ts]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/reactrouter.svg" />][router]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postman.svg" />][postman]
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg" />][sql]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/npm.svg" />][npm]
 
@@ -104,19 +104,20 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />][node]
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/netlify.svg" />][netlify]
 
-
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mapbox.svg" />][mapbox]
+#### Algorithms
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />][leetcode]
 
-
+#### Testing
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/jasmine.svg" />][jsmn]
 
+#### Geolocation
 
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/googlemaps.svg" />][googlemaps]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mapbox.svg" />][mapbox]
 
 <br/>
 
