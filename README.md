@@ -31,10 +31,15 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 ### Languages and Tools:
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
+
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][reduxjs]
+
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/heroku.svg" />][heroku]
+
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/googlemaps.svg" />][googlemaps]
+
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][github]
+
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/git.svg" />][git]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/expo.svg" />][expo]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/eslint.svg" />][eslint]
@@ -68,31 +73,58 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcherry000&langs_count=8)](https://github.com/mcherry000/github-readme-stats)
+
+
 [eslint]: https://eslint.org/img/logo.svg
+
 [css]: http://www.w3.org/html/logo/
+
 [canva]: https://www.canva.com/
+
 [bootstrap]: http://getbootstrap.com/about
+
 [auth]: https://styleguide.auth0.com
+
 [yarn]: https://github.com/yarnpkg/assets
+
 [xcode]: https://developer.apple.com/develop/
+
 [webpack]: https://webpack.js.org/branding/
+
 [vscode]: https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg
+
 [repl]: https://repl.it/
+
 [ts]: https://github.com/remojansen/logo.ts
+
 [router]: https://reacttraining.com/react-router/
+
 [postman]: https://www.getpostman.com/resources/media-assets/
+
 [sql]: https://wiki.postgresql.org/wiki/Logo
+
 [npm]: https://github.com/npm/logos
+
 [nodemon]: https://nodemon.io/
+
 [node]: https://nodejs.org/en/about/resources/
+
 [netlify]: https://www.netlify.com/press/
+
 [mui]: https://material-ui.com/
+
 [mapbox]: https://www.mapbox.com/about/press/brand-guidelines
+
 [leetcode]: https://leetcode.com
+
 [jquery]: https://brand.jquery.org/logos/
+
 [jsmn]: https://github.com/jasmine/jasmine/blob/8991b1bba39b5b7e89fc5eeb07ae271a684cb1a4/images/jasmine-horizontal.svg
+
 [js]: https://github.com/voodootikigod/logo.js
+
 [html]: http://www.w3.org/html/logo/
+
 [expo]: http://expo.io/brand/
 [git]: http://git-scm.com/downloads/logos
 [github]: https://github.com/logos
