@@ -1,5 +1,8 @@
 ### Hi there, I am Manika - aka mcherry000 👋
 [![HitCount](http://hits.dwyl.com/mcherry000/mcherry000.svg)](http://hits.dwyl.com/mcherry000/mcherry000)
+
+A Newbie Developer, previously trained to be a Neuroscientist. 
+
 📺  - Video walkthrough of some of the projects:
 
 <!-- YOUTUBE:START -->
@@ -7,7 +10,6 @@
 - [Progressive Web App ](https://www.youtube.com/watch?v=DlPrtvUkW3A)
 - [Single Page Application ](https://www.youtube.com/watch?v=VyfMJt3MwN0)
 <!-- YOUTUBE:END -->
-A Newbie Developer, previously trained to be a Neuroscientist. 
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
