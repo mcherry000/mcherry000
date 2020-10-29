@@ -30,15 +30,21 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 - ⚡ Fun fact: I share birthday with a Tennis Champion, a Nobel Laureate and a popular News Anchor! Voohoo..😄 
 
 ### Languages and Tools:
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />][js]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />][js]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][reduxjs]
 
+<br/>
+
 - 💬 Ask me about my passion for innovation
+
+<br/>
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
+
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />][css]
 
