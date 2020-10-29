@@ -104,8 +104,6 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 #### Backend technologies
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/auth0.svg" />][auth]
-
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/yarn.svg" />][yarn]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/webpack.svg" />][webpack]
@@ -134,8 +132,6 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 [canva]: https://www.canva.com/
 
 [bootstrap]: http://getbootstrap.com/about
-
-[auth]: https://styleguide.auth0.com
 
 [yarn]: https://github.com/yarnpkg/assets
 
