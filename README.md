@@ -3,7 +3,7 @@
 
 A Newbie Developer, previously trained to be a Neuroscientist. 
 
-📺  - Video walkthrough of some of the projects:
+📺  - Video walkthrough of some of my projects:
 
 <!-- YOUTUBE:START -->
 - [Mobile App](https://www.youtube.com/watch?v=fB0prOyYkKQ)
