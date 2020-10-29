@@ -1,6 +1,12 @@
 ### Hi there, I am Manika - aka mcherry000 👋
 [![HitCount](http://hits.dwyl.com/mcherry000/mcherry000.svg)](http://hits.dwyl.com/mcherry000/mcherry000)
+📺  - Video walkthrough of some of the projects:
 
+<!-- YOUTUBE:START -->
+- [Mobile App](https://www.youtube.com/watch?v=fB0prOyYkKQ)
+- [Progressive Web App ](https://www.youtube.com/watch?v=DlPrtvUkW3A)
+- [Single Page Application ](https://www.youtube.com/watch?v=VyfMJt3MwN0)
+<!-- YOUTUBE:END -->
 A Newbie Developer, previously trained to be a Neuroscientist. 
 ### Connect with me:
 
@@ -37,13 +43,7 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 Made with ❤️ and JavaScript.
 
 
-📺  - Video walkthrough of some of the projects:
 
-<!-- YOUTUBE:START -->
-- [Mobile App](https://www.youtube.com/watch?v=fB0prOyYkKQ)
-- [Progressive Web App ](https://www.youtube.com/watch?v=DlPrtvUkW3A)
-- [Single Page Application ](https://www.youtube.com/watch?v=VyfMJt3MwN0)
-<!-- YOUTUBE:END -->
 
 [reduxjs]: https://www.redislabs.com/brand-guidelines/
 [reactjs]: https://facebook.github.io/react/
