@@ -66,13 +66,19 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 <br/>
 
-#### Databases
+#### Databases and Geolocation Tools
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/googlemaps.svg" />][googlemaps]
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mapbox.svg" />][mapbox]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg" />][sql]
 
 <br/>
 
-#### IDE
+#### IDE and Algorithms
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />][leetcode]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/visualstudiocode.svg" />][vscode]
 
@@ -86,15 +92,17 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 <br/>
 
-#### Version Control
+#### Testing and Version Control Systems
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][github]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/git.svg" />][git]
 
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/jasmine.svg" />][jsmn]
+
 <br/>
 
-#### Backend technology
+#### Backend technologies
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/auth0.svg" />][auth]
 
@@ -111,26 +119,6 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/nodemon.svg" />][nodemon]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />][node]
-
-<br/>
-
-#### Algorithms
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />][leetcode]
-
-<br/>
-
-#### Testing
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/jasmine.svg" />][jsmn]
-
-<br/>
-
-#### Geolocation
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/googlemaps.svg" />][googlemaps]
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mapbox.svg" />][mapbox]
 
 <br/>
 
