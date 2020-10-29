@@ -8,7 +8,8 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
+<br/>
+<br/>
 # Coding Journey so far..
 
 
@@ -26,9 +27,9 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][reduxjs]
 
 
+<br/>
 
-
-
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcherry000&langs_count=8)](https://github.com/mcherry000/github-readme-stats)
 
