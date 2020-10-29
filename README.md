@@ -27,7 +27,7 @@
 
 
 <br />
-### 📺 Latest YouTube Videos
+📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Easy](https://www.youtube.com/watch?v=KFyRLxiRKAc)
