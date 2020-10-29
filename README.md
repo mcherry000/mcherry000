@@ -9,8 +9,6 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-<br />
-
 # Coding Journey so far..
 
 
@@ -27,15 +25,15 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][reduxjs]
 
-<br />
+
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcherry000&langs_count=8)](https://github.com/mcherry000/github-readme-stats)
-<br />
+
 Made with ❤️ and JavaScript.
-<br />
+
 
 📺 Latest YouTube Videos
 
@@ -46,11 +44,11 @@ Made with ❤️ and JavaScript.
 - [Top](https://www.youtube.com/watch?v=WYIelDSS738)
 - [NEW ](https://www.youtube.com/watch?v=Uzcr9YrdODU)
 <!-- YOUTUBE:END -->
-<br />
+
 [reduxjs]: https://www.redislabs.com/brand-guidelines/
 [reactjs]: https://facebook.github.io/react/
 [youtube]: https://youtube.com/
 
 [linkedin]: https://www.linkedin.com/in/manika-a-11692716b/
-<br />
+
 [![Manika's github stats](https://github-readme-stats.vercel.app/api?username=mcherry000)](https://github.com/mcherry000/github-readme-stats)
