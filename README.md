@@ -20,10 +20,10 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 ### Coding Journey so far..
 
-- 🔭 I’m currently working on Mastering Algos and System design!
-- 🌱 I’m currently learning Dynamic Programming
-- 👯 I’m looking to collaborate on large scale utility App-development
-- 🤔 I’m looking for help with connecting with like-minded engineers and mentors
+- 🔭 Currently working on Mastering Algos and System design!
+- 🌱 Currently learning Dynamic Programming
+- 👯 Looking to collaborate on large scale utility App-development
+- 🤔 Looking for help with connecting with like-minded engineers and mentors
 - 💬 Ask me about my passion for innovation
 - 📫 How to reach me: neuromanika@gmail.com
 - 😄 Pronouns: She/Her/Hers
