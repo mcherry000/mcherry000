@@ -37,7 +37,7 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 Made with ❤️ and JavaScript.
 
 
-📺 Video walkthrough of some of the projects:
+📺  - Video walkthrough of some of the projects:
 
 <!-- YOUTUBE:START -->
 - [Mobile App](https://www.youtube.com/watch?v=fB0prOyYkKQ)
@@ -47,7 +47,8 @@ Made with ❤️ and JavaScript.
 
 [reduxjs]: https://www.redislabs.com/brand-guidelines/
 [reactjs]: https://facebook.github.io/react/
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/watch?v=fB0prOyYkKQ
+
 
 [linkedin]: https://www.linkedin.com/in/manika-a-11692716b/
 
