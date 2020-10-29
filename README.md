@@ -1,7 +1,15 @@
 ### Hi there, I am Manika - aka mcherry000 👋
 [![HitCount](http://hits.dwyl.com/mcherry000/mcherry000.svg)](http://hits.dwyl.com/mcherry000/mcherry000)
 
+A Newbie Developer, previously trained to be a Neuroscientist. 
+# Coding Journey so far..
 
+[![Manika's github stats](https://github-readme-stats.vercel.app/api?username=mcherry000)](https://github.com/mcherry000/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcherry000&langs_count=8)](https://github.com/mcherry000/github-readme-stats)
+
+Made with ❤️ and JavaScript.
  
 - 🔭 I’m currently working on Mastering Algos and System design!
 - 🌱 I’m currently learning Dynamic Programming
