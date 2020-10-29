@@ -27,7 +27,7 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 - 💬 Ask me about my passion for innovation..
 - 📫 How to reach me: neuromanika@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I share birthday with a renowned Tennis Champion, a Nobel Laureate and an uber-popular News Anchor!😄 
+- ⚡ Fun fact: I share birthday with a renowned Spanish Tennis Champion, a Swedish Nobel Laureate and an uber-popular American News Anchor!😄 
 
 ### Languages and Tools:
 
