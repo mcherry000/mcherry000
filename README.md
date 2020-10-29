@@ -10,7 +10,8 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 <br/>
 <br/>
-# Coding Journey so far..
+
+### Coding Journey so far..
 
 
  
