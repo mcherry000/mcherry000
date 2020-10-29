@@ -37,14 +37,12 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 Made with ❤️ and JavaScript.
 
 
-📺 Latest YouTube Videos
+📺 Video walkthrough of some of the projects:
 
 <!-- YOUTUBE:START -->
-- [Easy](https://www.youtube.com/watch?v=KFyRLxiRKAc)
-- [Clone ](https://www.youtube.com/watch?v=8ETmAEf793g)
-- [6 ](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [Top](https://www.youtube.com/watch?v=WYIelDSS738)
-- [NEW ](https://www.youtube.com/watch?v=Uzcr9YrdODU)
+- [Mobile App](https://www.youtube.com/watch?v=fB0prOyYkKQ)
+- [Progressive Web App ](https://www.youtube.com/watch?v=DlPrtvUkW3A)
+- [Single Page Application ](https://www.youtube.com/watch?v=VyfMJt3MwN0)
 <!-- YOUTUBE:END -->
 
 [reduxjs]: https://www.redislabs.com/brand-guidelines/
