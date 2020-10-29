@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />] [reduxjs]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][reduxjs]
 
 <br />
 📺 Latest YouTube Videos
@@ -45,6 +45,6 @@
 <!-- BLOG-POST-LIST:END -->
 [reduxjs]: https://www.redislabs.com/brand-guidelines/
 [reactjs]: https://facebook.github.io/react/
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/
 
 [linkedin]: https://www.linkedin.com/in/manika-a-11692716b/
