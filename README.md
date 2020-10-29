@@ -23,9 +23,10 @@
 <br />
 
 ### Languages and Tools:
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
 
 
-
+<br />
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -43,7 +44,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-
+[reactjs]: https://facebook.github.io/react/
 [youtube]: https://youtube.com/codeSTACKr
 
 [linkedin]: https://www.linkedin.com/in/manika-a-11692716b/
