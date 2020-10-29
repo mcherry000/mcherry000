@@ -56,16 +56,21 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/canva.svg" />][canva]
 
+<br/>
+
 #### CI/CD
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/heroku.svg" />][heroku]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/netlify.svg" />][netlify]
 
+<br/>
+
 #### Databases
+
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg" />][sql]
 
-
+<br/>
 
 #### IDE
 
@@ -79,12 +84,15 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/repl-dot-it.svg" />][repl]
 
+<br/>
 
 #### Version Control
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][github]
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/git.svg" />][git]
+
+<br/>
 
 #### Backend technology
 
@@ -104,14 +112,19 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />][node]
 
+<br/>
 
 #### Algorithms
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />][leetcode]
 
+<br/>
+
 #### Testing
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/jasmine.svg" />][jsmn]
+
+<br/>
 
 #### Geolocation
 
