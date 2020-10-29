@@ -20,11 +20,11 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 ### Coding Journey so far..
 
-- 🔭 Currently working on Mastering Algos and System design!
-- 🌱 Currently learning Dynamic Programming
-- 👯 Looking to collaborate on large scale utility App-development
-- 🤔 Looking for help with connecting with like-minded engineers and mentors
-- 💬 Ask me about my passion for innovation
+- 🔭 Currently working on Mastering Algos and System design..
+- 🌱 Currently learning Dynamic Programming..
+- 👯 Looking to collaborate on large scale utility App-development..
+- 🤔 Looking for help with connecting with like-minded engineers and mentors..
+- 💬 Ask me about my passion for innovation..
 - 📫 How to reach me: neuromanika@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I share birthday with a Tennis Champion, a Nobel Laureate and a popular News Anchor! Voohoo..😄 
