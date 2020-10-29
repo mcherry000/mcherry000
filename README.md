@@ -56,4 +56,4 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 [![Manika's github stats](https://github-readme-stats.vercel.app/api?username=mcherry000)](https://github.com/mcherry000/github-readme-stats) 
 
-Made with ❤️ and JavaScript.
+Made with ❤️  and JavaScript.
