@@ -23,6 +23,11 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 - 📫 How to reach me: neuromanika@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I share birthday with a popular tennis champion, a Nobel Laureate and an ultra-famous News Anchor! Voohoo..😄 
+### Languages and Tools:
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][reduxjs]
+
+<br />
 
 [![Manika's github stats](https://github-readme-stats.vercel.app/api?username=mcherry000)](https://github.com/mcherry000/github-readme-stats)
 
@@ -31,11 +36,7 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 
 Made with ❤️ and JavaScript.
 
-### Languages and Tools:
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][reduxjs]
 
-<br />
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
