@@ -12,7 +12,7 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 <!-- YOUTUBE:END -->
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -180,7 +180,7 @@ A Newbie Developer, previously trained to be a Neuroscientist.
 [heroku]: https://www.heroku.com
 [reduxjs]: https://www.redislabs.com/brand-guidelines/
 [reactjs]: https://facebook.github.io/react/
-[youtube]: https://www.youtube.com/watch?v=fB0prOyYkKQ
+
 [linkedin]: https://www.linkedin.com/in/manika-a-11692716b/
 
 [![Manika's github stats](https://github-readme-stats.vercel.app/api?username=mcherry000)](https://github.com/mcherry000/github-readme-stats) 
