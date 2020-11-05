@@ -32,7 +32,7 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I share birthday with a renowned Spanish Tennis Champion, a Swedish Nobel Laureate and an uber-popular American News Anchor!😄 
 
-### ✏️ Languages and Tools:
+###  Languages and Tools:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-#### ✏️UX/UI Design
+####  UX/UI Design
 
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
@@ -61,7 +61,7 @@
 
 <br/>
 
-#### 📜CI/CD
+####  CI/CD
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/heroku.svg" />][heroku]
 
@@ -69,7 +69,7 @@
 
 <br/>
 
-#### 📜Databases and Geolocation Tools
+####  Databases and Geolocation Tools
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/googlemaps.svg" />][googlemaps]
 
@@ -79,7 +79,7 @@
 
 <br/>
 
-#### 📜IDE and Algorithms
+####  IDE and Algorithms
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />][leetcode]
 
@@ -95,7 +95,7 @@
 
 <br/>
 
-#### 📜Testing and Version Control Systems
+####  Testing and Version Control Systems
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][github]
 
@@ -105,7 +105,7 @@
 
 <br/>
 
-#### 📜Backend technologies
+####  Backend technologies
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/yarn.svg" />][yarn]
 
