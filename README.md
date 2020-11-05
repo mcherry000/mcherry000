@@ -3,7 +3,6 @@
 
 
 💻  A Newbie Developer, previously trained to be a Neuroscientist 🧠.
-
 ✨Over the years, my evolving interest in coding, and my passion for developing Apps outgrew my fear of switching careers and viola, here I am!🐣
 
 
@@ -14,7 +13,7 @@
 - [Progressive Web App ](https://www.youtube.com/watch?v=DlPrtvUkW3A)
 - [Single Page Application ](https://www.youtube.com/watch?v=VyfMJt3MwN0)
 <!-- YOUTUBE:END -->
-### Connect with me 🤙🏻 
+### 🤙🏻 Connect with me 
 
 
 
@@ -22,7 +21,7 @@
 
 <br/>
 
-### Coding Journey so far 👩‍🏫 
+### 👩‍🏫 Coding Journey so far 
 
 - 🔭 Currently working on Mastering Algos and System design..
 - 🌱 Currently learning Dynamic Programming..
@@ -33,7 +32,7 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I share birthday with a renowned Spanish Tennis Champion, a Swedish Nobel Laureate and an uber-popular American News Anchor!😄 
 
-### Languages and Tools:
+### 💫Languages and Tools:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
 
@@ -45,7 +44,7 @@
 
 <br/>
 
-#### UX/UI Design💫
+#### 💫UX/UI Design
 
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
@@ -62,7 +61,7 @@
 
 <br/>
 
-#### CI/CD
+#### 💫CI/CD
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/heroku.svg" />][heroku]
 
@@ -70,7 +69,7 @@
 
 <br/>
 
-#### Databases and Geolocation Tools
+#### 💫Databases and Geolocation Tools
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/googlemaps.svg" />][googlemaps]
 
@@ -80,7 +79,7 @@
 
 <br/>
 
-#### IDE and Algorithms
+#### 💫IDE and Algorithms
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />][leetcode]
 
@@ -96,7 +95,7 @@
 
 <br/>
 
-#### Testing and Version Control Systems
+#### 💫Testing and Version Control Systems
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][github]
 
@@ -106,7 +105,7 @@
 
 <br/>
 
-#### Backend technologies
+#### 💫Backend technologies
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/yarn.svg" />][yarn]
 
