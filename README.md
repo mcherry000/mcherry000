@@ -32,7 +32,7 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I share birthday with a renowned Spanish Tennis Champion, a Swedish Nobel Laureate and an uber-popular American News Anchor!😄 
 
-### 📜Languages and Tools:
+### ✏️ Languages and Tools:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][reactjs]
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-#### 📜UX/UI Design
+#### ✏️UX/UI Design
 
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
