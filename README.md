@@ -2,7 +2,9 @@
 [![HitCount](http://hits.dwyl.com/mcherry000/mcherry000.svg)](http://hits.dwyl.com/mcherry000/mcherry000)
 
 
-💻 - A Newbie Developer, previously trained to be a Neuroscientist -🧠.👩‍
+💻 - A Newbie Developer, previously trained to be a Neuroscientist 🧠.
+
+✨Over the years, my evolving interest in coding, and my passion for developing Apps outgrew my fear of switching careers and viola, here I am!🐣
 
 
 📺  - Video walkthrough of some of my projects:
