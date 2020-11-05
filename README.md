@@ -7,14 +7,14 @@
 ✨Over the years, my evolving interest in coding, and my passion for developing Apps outgrew my fear of switching careers and viola, here I am!🐣
 
 
-📺  - Video walkthrough of some of my projects:
+###  📺  - Video walkthrough of some of my projects:
 
 <!-- YOUTUBE:START -->
 - [Mobile App](https://www.youtube.com/watch?v=fB0prOyYkKQ)
 - [Progressive Web App ](https://www.youtube.com/watch?v=DlPrtvUkW3A)
 - [Single Page Application ](https://www.youtube.com/watch?v=VyfMJt3MwN0)
 <!-- YOUTUBE:END -->
-### Connect with me:
+### 🤙🏻 Connect with me:
 
 
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-### Coding Journey so far..
+### 👩‍🏫 Coding Journey so far..
 
 - 🔭 Currently working on Mastering Algos and System design..
 - 🌱 Currently learning Dynamic Programming..
@@ -45,7 +45,7 @@
 
 <br/>
 
-#### UX/UI Design
+#### UX/UI Design💫
 
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
