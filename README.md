@@ -13,7 +13,7 @@
 - [Progressive Web App ](https://www.youtube.com/watch?v=DlPrtvUkW3A)
 - [Single Page Application ](https://www.youtube.com/watch?v=VyfMJt3MwN0)
 <!-- YOUTUBE:END -->
-### 🤙🏻 Connect with me, don't be shy!
+### 🤙🏻 Connect with me..
 
 
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-### 👩‍🏫 Coding Journey so far 
+### 👩‍🏫 Coding Journey so far.. 
 
 - 🧿 Currently working on Mastering Algos and System design..
 - 🌱 Currently learning Dynamic Programming..
