@@ -23,7 +23,7 @@
 
 ### 👩‍🏫 Coding Journey so far 
 
-- 🔭 Currently working on Mastering Algos and System design..
+- 🧿 Currently working on Mastering Algos and System design..
 - 🌱 Currently learning Dynamic Programming..
 - 👯 Looking to collaborate on large scale utility App-development..
 - 🤔 Looking for help with connecting with like-minded engineers and mentors..
