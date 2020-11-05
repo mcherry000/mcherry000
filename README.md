@@ -1,8 +1,7 @@
 ### Hi there, I am Manika  👋
 [![HitCount](http://hits.dwyl.com/mcherry000/mcherry000.svg)](http://hits.dwyl.com/mcherry000/mcherry000)
+ 💻 >> A Newbie Developer, previously trained to be a Neuroscientist__ 🧠.👩‍
 
-👩‍💻    A Newbie Developer, previously trained to be a Neuroscientist    🧠.
-👩‍⚕️
 
 📺  - Video walkthrough of some of my projects:
 
