@@ -13,7 +13,7 @@
 - [Progressive Web App ](https://www.youtube.com/watch?v=DlPrtvUkW3A)
 - [Single Page Application ](https://www.youtube.com/watch?v=VyfMJt3MwN0)
 <!-- YOUTUBE:END -->
-### 🤙🏻 Connect with me 
+### 🤙🏻 Connect with me, don't be shy!
 
 
 
