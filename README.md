@@ -3,7 +3,7 @@
 
 
 💻 ✨ A Newbie Developer, previously trained to be a Neuroscientist. 🧠.
-✨Over the years, my evolving interest in coding, and my passion for building applications outgrew my fear of switching careers and viola, here I am!🐣
+✨Over the years, my evolving interest in coding, and my passion for building applications steered me to the world of software engineering and viola, here I am!🐣
 
 
 ###  📺   Video walkthrough of some of my projects:
