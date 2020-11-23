@@ -3,11 +3,6 @@
 
 ---------
 
-💻 
-✨Over the years, my evolving interest in coding, and my passion for building applications steered me to the world of software engineering and viola, here I am!🐣
-
----------
-
 ### Resume  👋
 
 ![Manika Arora (2)](https://user-images.githubusercontent.com/62259532/99936651-a3d19180-2d31-11eb-92b3-4a688f950c2f.png)
