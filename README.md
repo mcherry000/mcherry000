@@ -1,8 +1,9 @@
 ### Hi there, I am Manika  👋
+<br/> ✨ A Newbie Developer, previously trained to be a Neuroscientist. 🧠.
 
 ---------
 
-💻 ✨ A Newbie Developer, previously trained to be a Neuroscientist. 🧠.
+💻 
 ✨Over the years, my evolving interest in coding, and my passion for building applications steered me to the world of software engineering and viola, here I am!🐣
 
 ---------
