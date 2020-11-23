@@ -193,7 +193,7 @@
 ---------
 ### Resume  👋
 
-![Manika Arora (1)](https://user-images.githubusercontent.com/62259532/99936487-44738180-2d31-11eb-84f6-ff3e0a4cd118.png)
+![Manika Arora (2)](https://user-images.githubusercontent.com/62259532/99936651-a3d19180-2d31-11eb-92b3-4a688f950c2f.png)
 
 ---------------
 
