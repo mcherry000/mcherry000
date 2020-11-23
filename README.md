@@ -191,7 +191,7 @@
 <br/>
 
 ---------
-![alt text](https://github.com/[mcherry000]/[Manika-Resume]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/[mcherry000]/[Manika-Resume]/blob/[main]/image.png?raw=true)
 
 
 Made with ❤️  and JavaScript.
