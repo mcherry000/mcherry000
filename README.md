@@ -191,7 +191,9 @@
 <br/>
 
 ---------
-![Manika Arora](https://user-images.githubusercontent.com/62259532/99936073-3e30d580-2d30-11eb-8c66-ae0605b7b8c0.png)
+### Resume  👋
+
+![Manika Arora (1)](https://user-images.githubusercontent.com/62259532/99936487-44738180-2d31-11eb-84f6-ff3e0a4cd118.png)
 
 ---------------
 
