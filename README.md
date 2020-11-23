@@ -188,4 +188,10 @@
 
 [![Manika's github stats](https://github-readme-stats.vercel.app/api?username=mcherry000)](https://github.com/mcherry000/github-readme-stats) 
 
+<br/>
+
+---------
+![alt text](https://github.com/[mcherry000]/[Manika-Resume]/blob/[main]/image.jpg?raw=true)
+
+
 Made with ❤️  and JavaScript.
