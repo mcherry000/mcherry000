@@ -1,9 +1,20 @@
-### Hi there, I am Manika  👋
+### Hi there, I am Manika   👋
  ✨ A Newbie Developer, previously trained to be a Neuroscientist. 🧠.
 
 ---------
 
-### Resume  👋
+### Okay, Let's play a game    🎮
+
+- [Game Night](https://game-night-000.netlify.app/)
+
+---------
+
+### Or Let's paint    🎨
+
+- [Art Heart](https://art-heart.netlify.app/)
+
+---------
+### Resume  📝
 
 ![Manika Arora (2)](https://user-images.githubusercontent.com/62259532/99936651-a3d19180-2d31-11eb-92b3-4a688f950c2f.png)
 
