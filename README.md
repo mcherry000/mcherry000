@@ -1,5 +1,5 @@
 ### Hi there, I am Manika   👋
- ✨ A Newbie Developer, previously trained to be a Neuroscientist. 🧠.
+ ✨ A Newbie Developer, with longest training in Neuroscience Research. 🧠.
 
 ---------
 
