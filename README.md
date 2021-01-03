@@ -15,7 +15,7 @@
 ---------
 ### Resume  📝
 
-![Manika Arora (5)](https://user-images.githubusercontent.com/62259532/103491590-20f12b80-4df3-11eb-8e66-93547a12fa39.png)
+![Manika Arora (6)](https://user-images.githubusercontent.com/62259532/103491768-5f3b1a80-4df4-11eb-960b-f97a60cee3f5.png)
 
 ---------------
 ###  📺   Video walkthrough of some of my projects:
