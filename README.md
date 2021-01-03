@@ -36,7 +36,6 @@
 ### 👩‍🏫 Coding Journey so far.. 
 
 - 🧿 Currently working on Mastering Algos and System design..
-- 👯 Looking to collaborate on large scale utility App-development..
 - 🤔 Looking for help with connecting with like-minded engineers and mentors..
 - 💬 Ask me about my passion for innovation..
 - 📫 How to reach me: neuromanika@gmail.com
