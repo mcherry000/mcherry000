@@ -1,4 +1,4 @@
-### Hi there, I am Manika   👋
+### Hi there, I am Manika , a Newbie Developer  👋
 
 ---------
 
