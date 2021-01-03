@@ -1,5 +1,5 @@
 ### Hi there, I am Manika   👋
- ✨ A Newbie Developer, with longest training in Neuroscience Research. 🧠.
+ ✨ A Newbie Developer, with a decade long training in Neuroscience and Research. 🧠
 
 ---------
 
