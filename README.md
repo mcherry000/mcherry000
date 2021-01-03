@@ -2,13 +2,13 @@
 
 ---------
 
-### Okay, Let's play a game    🎮
+### While you are here, let's play a game!    🎮
 
 - [Game Night](https://game-night-000.netlify.app/)
 
 ---------
 
-### Or Let's paint    🎨
+### Or Let's paint...   🎨
 
 - [Art Heart](https://art-heart.netlify.app/)
 
