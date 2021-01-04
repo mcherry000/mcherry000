@@ -35,7 +35,7 @@
 
 ### 👩‍🏫 Coding Journey so far.. 
 
-- 🧿 Currently working on Mastering Algos and System design..
+- 🧿 Currently working on Mastering complex Algorithms and System Design challenges..
 - 🤔 Looking for help with connecting with like-minded Engineers and Mentors..
 - 💬 Ask me about my passion for innovation..
 - 📫 How to reach me: neuromanika@gmail.com
