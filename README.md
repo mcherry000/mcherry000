@@ -8,7 +8,7 @@
 
 ---------
 
-### Or Let's paint...   🎨
+### Maybe, you'd like to paint a bit...   🎨
 
 - [Art Heart](https://art-heart.netlify.app/)
 
