@@ -13,9 +13,6 @@
 - [Art Heart](https://art-heart.netlify.app/)
 
 ---------
-### Resume  📝
-
-![Manika Arora (5)](https://user-images.githubusercontent.com/62259532/103491935-880fdf80-4df5-11eb-97f3-53973ea421f0.png)
 
 ---------------
 ###  📺   Video walkthrough of some of my projects:
